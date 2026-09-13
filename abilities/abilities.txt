@@ -1,0 +1,33 @@
+
+
+
+
+1. Toxic sludge. 
+
+    1. You leave behind pools of acid that damage enemies. 1 dmg, 5% crit rate, +1 crit damage, 1 every .8 seconds 
+    2. You leave them behind more often. 1 every .6 seconds 
+    3. Acid pools deal more damage. 2 dmg 
+    4. Increases crit rate and crit damage. 10% crit rate, +1-2 (randomly) crit damage 
+
+
+2. Aim bot. 
+
+    1. Additional shooting module that shoots default projectile at the closest enemy. 5 dmg, 1 every 1.2 second, 10% crit rate, +1-2 crit damage
+    2. +1 more aim bot mmodule (same stats). 
+    3. both aim bots shoot faster. 1 every .9 seconds. 
+    4. both aim bots get higher crit rate. 20% crit rate, 1 every .8 seconds. 
+
+3. Laser 
+
+    1. Additional projectile that shoots towards cursor that has pierce. pierce 1, 3 dmg, 1 every 1 second, 5% crit rate, +2 crit damage. 
+    2. Pierces 3 additional enemies (pierce 4). 
+    3. Deals higher damage (5 dmg) 
+    4. +1 pierce, + 5% crit rate, crit damage changes to +3
+
+4. Armor 
+
+    1. +20 max and current HP. 
+    2. repeat 1. 
+    3. Restore 10 HP on level up. 
+    4. Take -1 damage from all sources. 
+
